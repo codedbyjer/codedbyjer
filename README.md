@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Jeremiah Rey!
 
 🎓 3rd-year Bachelor of Science Information Technology student.
+
 🎯 Aspiring UI/UX Designer | Frontend Developer | Future Full-Stack Developer  
 🏆 Hackathon Champion & Peer Mentor  
 💻 Passionate about building intuitive, user-centered, and scalable digital solutions.
