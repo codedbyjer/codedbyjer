@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) (add your link)  
-- ✉️ [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/jeremiah-rey-088689365)
+- ✉️ [Email Me](jeremiahrey63@gmail.com)
 
 Thanks for stopping by! 😊
